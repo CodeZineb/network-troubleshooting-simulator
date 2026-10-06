@@ -1,0 +1,34 @@
+# Byte-compiled / Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Pytest / Test cache
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary and OS files
+*.tmp
+*.temp
+*~
+.DS_Store
+Thumbs.db
+
+# Environment and secrets files
+.env
+.env.*
+*.env
+*.local
